@@ -1,8 +1,0 @@
-<Module>
-<ModulePrefs title="Aljazeera الجزيرة نت" title_url="http://goo.gl/34ozL" description="قناة عربية إخبارية تعمل على مدار اليوم. يمكنك مشاهدة بث القناة من خلال الموقع" author="قناة عربية إخبارية تعمل على مدار اليوم. يمكنك مشاهدة بث القناة من خلال الموقع" author_email="ideutchland@gmail.com" height="320" width="468" thumbnail="http://fr.kingofsat.net/jpg/aljazeera-int.jpg" screenshot="http://fr.kingofsat.net/jpg/aljazeera-int.jpg" category="news" category2="أخبار" scaling="false"/>
-<Content type="html">
-<![CDATA[
-<script type="text/javascript"><!-- google_ad_client = "ca-pub-5332713042032350"; /* Said */ google_ad_slot = "0542722612"; google_ad_width = 468; google_ad_height = 60; //--> </script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> </script> <embed width="100%" height="80%" name="plugin" src="http://www.elahmad.com/tv/swf/aljazeera_hd.swf" type="application/x-shockwave-flash">
-]]>
-</Content>
-</Module>
